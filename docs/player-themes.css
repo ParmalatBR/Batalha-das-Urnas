@@ -1,0 +1,23 @@
+/* Shared surfaces follow the protagonist while portraits and locations retain their colors. */
+#app[data-player-theme="lula"]{--journey-deep:#310b15;--journey-mid:#761a2b;--journey-glow:#b7394b;--journey-panel:#461421;--journey-rgb:106 23 43}
+#app[data-player-theme="flavio"]{--journey-deep:#08291b;--journey-mid:#16583a;--journey-glow:#389a61;--journey-panel:#103c29;--journey-rgb:16 82 48}
+#app[data-player-theme] .expansion-screen{background:radial-gradient(ellipse at 73% -8%,var(--journey-glow),transparent 65%),repeating-linear-gradient(0deg,#ffffff03 0 1px,transparent 1px 4px),linear-gradient(135deg,var(--journey-mid),var(--journey-deep) 80%)}
+#app[data-player-theme] .expansion-screen :is(.campaign-top,.album-detail,.config-grid section,.achievement,.attribute-list){background:linear-gradient(135deg,rgb(var(--journey-rgb) / .85),var(--journey-panel));box-shadow:0 14px 35px #0003,inset 0 1px #ffefc114}
+#app[data-player-theme] .expansion-screen :is(.route-card,.album-card,.hero-pick){background:radial-gradient(ellipse at 50% 5%,rgb(var(--journey-rgb) / .5),transparent),var(--journey-deep)}
+#app[data-player-theme] .expansion-screen :is(.route-card.boss,.album-card.chosen,.achievement.earned){background:linear-gradient(140deg,#bd913a33,var(--journey-panel))}
+#app[data-player-theme] .expansion-screen :is(select,.key-grid button,.attribute-summary>div,.mystery-seal,.international-choice button){background:var(--journey-deep)}
+#app[data-player-theme] .victory-scene{background:radial-gradient(ellipse at 25% 45%,var(--journey-mid),transparent 70%),var(--journey-deep)}
+#app[data-player-theme] .victory-scene.final{background:linear-gradient(90deg,rgb(var(--journey-rgb) / .91),rgb(var(--journey-rgb) / .78)),url('assets/planalto-ramp-v10.webp') center/cover}
+#app[data-player-theme] :is(.victory-poll,.ramp-dialogue){background:rgb(var(--journey-rgb) / .94)}
+#app[data-player-theme] .victory-poll i{background:linear-gradient(90deg,var(--journey-glow),#e3c47b)}
+#app[data-player-theme] .expansion-screen p{color:#e9ddd0}
+#app[data-player-theme] .expansion-screen :is(.save-note,.fine-print){color:#d1beb0!important}
+#app[data-player-theme] .expansion-screen label{color:#f0dfc9}
+#app[data-player-theme] .route-card small{color:#dbcaba}
+#app[data-player-theme] .ramp-cinema{background:var(--journey-panel);box-shadow:0 18px 45px #0005}
+#app[data-player-theme] .intermission{background:rgb(var(--journey-rgb) / .86)}
+@media(orientation:landscape) and (max-height:520px){
+ #app[data-player-theme] .expansion-screen:has(.ramp-cinema)>.back-button{background:rgb(var(--journey-rgb) / .85)}
+ #app[data-player-theme] .expansion-screen:has(.ramp-cinema)>.expansion-heading{background:linear-gradient(rgb(var(--journey-rgb) / .88),transparent)}
+ #app[data-player-theme] .ramp-caption{background:linear-gradient(transparent,rgb(var(--journey-rgb) / .95) 25%)}
+}

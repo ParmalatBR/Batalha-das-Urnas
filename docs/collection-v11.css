@@ -1,0 +1,18 @@
+.hidden-portrait{position:relative;height:115px;display:grid;place-items:center;isolation:isolate}
+.hidden-portrait svg{height:100%;width:100%;fill:#071812;opacity:.86;filter:drop-shadow(0 2px 1px #f1d19722)}
+.hidden-portrait>span{position:absolute;top:34%;font:32px 'Fraunces',Georgia,serif;color:#bea76b66}
+.album-detail>.hidden-portrait{height:220px;margin-bottom:15px}
+.album-detail>.hidden-portrait>span{font-size:58px}
+.album-card{position:relative}
+.album-card.locked b{font-family:Georgia,serif;letter-spacing:3px;color:#d6c295}
+.album-card.locked small{color:#bcb899}
+#app[data-player-theme] .album-card.international-card{border:3px double #f4d689;box-shadow:inset 0 0 0 2px #55376b,0 0 13px #e6ca7629;background:radial-gradient(ellipse at 50% 0,#71558a55,transparent 85%),var(--journey-deep)}
+#app[data-player-theme] .album-card.international-card.chosen{border-color:#fff2b9;box-shadow:inset 0 0 0 2px #9864a1,0 0 20px #f3d37255}
+.international-star{position:absolute;right:8px;top:5px;color:#f5d685;font-size:18px;text-shadow:0 0 10px #e7c5f4}
+#app[data-player-theme] .international-detail{border:3px double #e9c378;box-shadow:inset 0 0 0 2px #563a66,0 12px 30px #0004}
+.recruit-level{font:11px 'Roboto Condensed',sans-serif;letter-spacing:2px;display:flex;align-items:center;justify-content:space-between;border-block:1px solid #c6a66455;padding:12px 0}
+.recruit-level strong{font:30px 'Fraunces',Georgia,serif;color:#f3d17e}
+.recruit-note{font-size:12px!important}
+.character-role{font:600 12px/1.45 'Roboto Condensed',sans-serif;letter-spacing:.08em;text-transform:uppercase;color:#e4c985;margin:8px 0 16px}
+.intro-duel .character-role{max-width:280px;margin:8px auto 12px}
+@media(max-width:900px) and (orientation:landscape){.hidden-portrait{height:90px}.album-detail>.hidden-portrait{height:150px}}

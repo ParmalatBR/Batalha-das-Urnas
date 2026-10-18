@@ -1,0 +1,19 @@
+/* Only the mobile arena: never the page, menus, profile, credits or save editor. */
+@media (pointer:coarse) and (max-width:1100px){
+  #match,#match * {
+    -webkit-user-select:none;
+    user-select:none;
+    -webkit-touch-callout:none;
+  }
+  #match img {-webkit-user-drag:none}
+  #match :is(#world,canvas,.virtual-joystick,.virtual-joystick *,.dpad button,.dpad button *,#bombTouch,#bombTouch *,#specialTouch,#specialTouch *,#signatureButton,.game-tools button){touch-action:none}
+  /* Explicit native UI islands also work if a future overlay is inside #match. */
+  #match :is(input,textarea,select,option,a[href],[contenteditable]:not([contenteditable="false"]),[data-native-touch],[data-allow-selection],.player-help-popover,[role="dialog"],[role="tooltip"]),
+  #match :is(input,textarea,select,option,a[href],[contenteditable]:not([contenteditable="false"]),[data-native-touch],[data-allow-selection],.player-help-popover,[role="dialog"],[role="tooltip"]) * {
+    -webkit-user-select:text;
+    user-select:text;
+    -webkit-touch-callout:default;
+    -webkit-user-drag:auto;
+    touch-action:auto;
+  }
+}

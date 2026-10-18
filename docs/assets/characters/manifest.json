@@ -1,0 +1,106 @@
+{
+  "nikolas": {
+    "front": "assets/characters/nikolas-front.webp",
+    "atlas": "assets/characters/nikolas-directions.webp"
+  },
+  "janones": {
+    "front": "assets/characters/janones-front.webp",
+    "atlas": "assets/characters/janones-directions.webp"
+  },
+  "mendonca": {
+    "front": "assets/characters/mendonca-front.webp",
+    "atlas": "assets/characters/mendonca-directions.webp"
+  },
+  "moraes": {
+    "front": "assets/characters/moraes-front.webp",
+    "atlas": "assets/characters/moraes-directions.webp"
+  },
+  "bukele": {
+    "front": "assets/characters/bukele-front.webp",
+    "atlas": "assets/characters/bukele-directions.webp"
+  },
+  "xi": {
+    "front": "assets/characters/xi-front.webp",
+    "atlas": "assets/characters/xi-directions.webp"
+  },
+  "trump": {
+    "front": "assets/characters/trump-front.webp",
+    "atlas": "assets/characters/trump-directions.webp"
+  },
+  "putin": {
+    "front": "assets/characters/putin-front.webp",
+    "atlas": "assets/characters/putin-directions.webp"
+  },
+  "damares": {
+    "front": "assets/characters/damares-front.webp",
+    "atlas": "assets/characters/damares-directions.webp"
+  },
+  "magno": {
+    "front": "assets/characters/magno-front.webp",
+    "atlas": "assets/characters/magno-directions.webp"
+  },
+  "marcos": {
+    "front": "assets/characters/marcos-front.webp",
+    "atlas": "assets/characters/marcos-directions.webp"
+  },
+  "sostenes": {
+    "front": "assets/characters/sostenes-front.webp",
+    "atlas": "assets/characters/sostenes-directions.webp"
+  },
+  "tarcisio": {
+    "front": "assets/characters/tarcisio-front.webp",
+    "atlas": "assets/characters/tarcisio-directions.webp"
+  },
+  "gleisi": {
+    "front": "assets/characters/gleisi-front.webp",
+    "atlas": "assets/characters/gleisi-directions.webp"
+  },
+  "haddad": {
+    "front": "assets/characters/haddad-front.webp",
+    "atlas": "assets/characters/haddad-directions.webp"
+  },
+  "boulos": {
+    "front": "assets/characters/boulos-front.webp",
+    "atlas": "assets/characters/boulos-directions.webp"
+  },
+  "erika": {
+    "front": "assets/characters/erika-front.webp",
+    "atlas": "assets/characters/erika-directions.webp"
+  },
+  "marina": {
+    "front": "assets/characters/marina-front.webp",
+    "atlas": "assets/characters/marina-directions.webp"
+  },
+  "nunes": {
+    "front": "assets/characters/nunes-front.webp",
+    "atlas": "assets/characters/nunes-directions.webp"
+  },
+  "toffoli": {
+    "front": "assets/characters/toffoli-front.webp",
+    "atlas": "assets/characters/toffoli-directions.webp"
+  },
+  "fux": {
+    "front": "assets/characters/fux-front.webp",
+    "atlas": "assets/characters/fux-directions.webp"
+  },
+  "gilmar": {
+    "front": "assets/characters/gilmar-front.webp",
+    "atlas": "assets/characters/gilmar-directions.webp"
+  },
+  "fachin": {
+    "front": "assets/characters/fachin-front.webp",
+    "atlas": "assets/characters/fachin-directions.webp"
+  },
+  "dino": {
+    "front": "assets/characters/dino-front.webp",
+    "atlas": "assets/characters/dino-directions.webp"
+  },
+  "moro": {
+    "front": "assets/characters/moro-front.webp",
+    "atlas": "assets/characters/moro-directions.webp"
+  },
+  "messias": {
+    "front": "assets/characters/messias-front.webp",
+    "atlas": "assets/characters/messias-directions.webp"
+  }
+}

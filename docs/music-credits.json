@@ -1,0 +1,93 @@
+{
+  "checked": "2026-10-16",
+  "description": "Gravações instrumentais para menu e combate. Sem vínculo com candidatos ou campanhas.",
+  "tracks": [
+    {
+      "title": "Bossa Antigua",
+      "artist": "Kevin MacLeod",
+      "author_url": "https://incompetech.com/",
+      "file": "assets/music/bossa-antigua.mp3",
+      "isrc": "USUAN1700069",
+      "source": "https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1700069",
+      "download": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Bossa%20Antigua.mp3",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "changes": "Arquivo MP3 original sem cortes. Reprodução em volume reduzido, com fade de entrada e saída.",
+      "sha256": "322103dd6ac5fae4872122f91d32cccd4d964b86d300585a5a0cdfaf7048af5d",
+      "bytes": 9069455
+    },
+    {
+      "title": "BossaBossa",
+      "artist": "Kevin MacLeod",
+      "author_url": "https://incompetech.com/",
+      "file": "assets/music/bossa-bossa.mp3",
+      "isrc": "USUAN1600055",
+      "source": "https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1600055",
+      "download": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/BossaBossa.mp3",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "changes": "Arquivo MP3 original sem cortes. Reprodução em volume reduzido, com fade de entrada e saída.",
+      "sha256": "a89ec158f9113531e7cbd98955cdd1a557e88e19713a3ef8a5084e2f9f039a12",
+      "bytes": 5355450
+    },
+    {
+      "title": "Samba Isobel",
+      "artist": "Kevin MacLeod",
+      "author_url": "https://incompetech.com/",
+      "file": "assets/music/samba-isobel.mp3",
+      "isrc": "USUAN1700071",
+      "source": "https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1700071",
+      "download": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Samba%20Isobel.mp3",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "changes": "Arquivo MP3 original sem cortes. Reprodução em volume reduzido, com fade de entrada e saída.",
+      "sha256": "563bd5a5686560f56f012d302a672796110cab392a0e3ecbbfdd8f96c6489527",
+      "bytes": 8007838
+    },
+    {
+      "title": "Five Armies",
+      "artist": "Kevin MacLeod",
+      "author_url": "https://incompetech.com/",
+      "file": "assets/music-battle/score-battle-five-armies.mp3",
+      "isrc": "USUAN1100875",
+      "source": "https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1100875",
+      "download": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Five%20Armies.mp3",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "changes": "Gravação completa. Ganho linear de -9,32 dB, conversão MP3 estéreo 44,1 kHz / 160 kbps. Sem rearranjo, corte, alteração de andamento ou de altura. Loop na reprodução, com o encerramento original preservado.",
+      "sha256": "858cb5060c1ccd295106666865c08675ec29a09887b56eb918b75dcf3cecb736",
+      "bytes": 3118476,
+      "usage": "Combate normal, local e online."
+    },
+    {
+      "title": "Clash Defiant",
+      "artist": "Kevin MacLeod",
+      "author_url": "https://incompetech.com/",
+      "file": "assets/music-battle/score-miniboss-clash-defiant.mp3",
+      "isrc": "USUAN1600003",
+      "source": "https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1600003",
+      "download": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Clash%20Defiant.mp3",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "changes": "Trecho contínuo dos primeiros 120 s, fade de entrada 40 ms e saída 1 s. Ganho linear -8.7 dB; MP3 estéreo 44,1 kHz / 160 kbps. Sem alteração de andamento/altura; loop na reprodução.",
+      "sha256": "50cb540eb0ba09f0f486d00f1d45136cd7cd321d54c60f6195551865cbf56273",
+      "bytes": 2401710,
+      "usage": "Minichefes políticos e judiciais"
+    },
+    {
+      "title": "Volatile Reaction",
+      "artist": "Kevin MacLeod",
+      "author_url": "https://incompetech.com/",
+      "file": "assets/music-battle/score-final-volatile-reaction.mp3",
+      "isrc": "USUAN1400039",
+      "source": "https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1400039",
+      "download": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Volatile%20Reaction.mp3",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "changes": "Gravação completa. Ganho linear -12.1 dB; MP3 estéreo 44,1 kHz / 160 kbps. Sem alteração de andamento/altura; loop na reprodução.",
+      "sha256": "86fa983a013a8032d43809231874a2216925fc56c6a1276ef59892836f27174d",
+      "bytes": 3308648,
+      "usage": "Chefe presidencial final"
+    }
+  ]
+}

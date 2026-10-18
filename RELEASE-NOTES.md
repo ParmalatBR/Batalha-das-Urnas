@@ -1,28 +1,34 @@
 # Batalha das Urnas — Versão 1.0
 
-**Distribuição gratuita · downloads ainda não liberados.**
+**Gratuito · duas campanhas · 28 personagens**
 
-## O que esta versão traz
+**[▶ JOGAR AGORA](https://parmalatbr.github.io/Batalha-das-Urnas/)** · **[↓ BAIXAR PARA WINDOWS](https://github.com/ParmalatBR/Batalha-das-Urnas/releases/download/v1.0.0/Batalha-das-Urnas-Setup.exe)** · **[↓ BAIXAR PARA ANDROID](https://github.com/ParmalatBR/Batalha-das-Urnas/releases/download/v1.0.0/Batalha-das-Urnas-Android.apk)**
 
-- Duas campanhas, com Lula e Flávio, e um elenco de 28 personagens.
-- Cinco níveis de dificuldade e arenas inspiradas em Brasília.
-- Campanha, Batalha rápida, Sobrevivência, Caos Institucional, Desafio dos chefes e PvP Local.
-- 72 falas reais de arquivo, com provocações de acerto e falas de vitória separadas. Todos os 28 personagens possuem fala de vitória.
-- Música de batalha, vozes e efeitos com volumes ajustáveis.
-- Confirmação antes de recomeçar uma campanha e reiniciar sua evolução.
-- Modo Extremo: uma derrota contra qualquer adversário retorna à fase 1 e zera a evolução da campanha. Empates não provocam esse reinício.
-- Instalador Windows e alternativa portátil; **F11** alterna entre janela e tela cheia.
+## Nesta versão
 
-## Disponibilidade
+- Campanhas de Lula e Flávio, com evolução, minibosses, chefes e desafios internacionais.
+- Elenco de 28 personagens, cinco dificuldades e arenas inspiradas em Brasília.
+- Batalha rápida, Sobrevivência, Caos Institucional, Desafio dos chefes e multiplayer local no mesmo computador.
+- 72 falas reais de arquivo; todos os 28 personagens têm fala de vitória.
+- Música, vozes e efeitos com volumes ajustáveis.
+- Confirmação antes de reiniciar a campanha ou ativar Extremo. Nesse modo, uma derrota retorna à fase 1 e zera a evolução; empate não provoca reinício.
 
-Os arquivos de instalação serão disponibilizados em [Releases](https://github.com/ParmalatBR/Batalha-das-Urnas/releases) após a liberação. Nenhum download está anunciado como disponível neste momento.
+## Como acessar
 
-Campanhas e modos locais funcionam offline no Windows. O **PvP Online permanece temporariamente indisponível**.
+**Windows 10 ou posterior, 64 bits:** o instalador é a opção principal. Para usar o [ZIP portátil](https://github.com/ParmalatBR/Batalha-das-Urnas/releases/download/v1.0.0/Batalha-das-Urnas-Windows-Portatil.zip), extraia a pasta inteira antes de abrir `BatalhaDasUrnas.exe`. O jogo abre em tela cheia; F11 alterna para janela. Campanhas e modos locais funcionam offline.
 
-O APK Android está preparado para orientação horizontal, mas **ainda não foi testado em aparelho real**. Instalação, desempenho, controles por toque, áudio e suspensão/retomada precisam dessa verificação. Não há versão para iPhone anunciada.
+**Android 7.0 ou posterior:** APK para instalação direta e uso na horizontal. É uma versão **experimental, ainda sem teste em aparelho físico**; instalação, desempenho, áudio, controles simultâneos e retomada continuam pendentes dessa validação. Não há publicação na Google Play nesta entrega.
 
-## Instalação e progresso
+**iPhone:** abra [o jogo no Safari](https://parmalatbr.github.io/Batalha-das-Urnas/), vire o aparelho para a horizontal e toque na tela para liberar o áudio. Use Compartilhar → Adicionar à Tela de Início para criar o atalho. É uma aplicação web, sem App Store; esta publicação no GitHub Pages ainda precisa da confirmação em iPhone físico. **O cache e o funcionamento offline no navegador não são garantidos.**
 
-Para Windows 10 ou posterior, 64 bits, o instalador é a opção principal. A versão portátil exige extrair o ZIP inteiro antes de abrir o executável. O progresso permanece separado da instalação e é preservado ao atualizar ou desinstalar. Exporte uma cópia pelo jogo antes de trocar de computador.
+## Disponibilidade e progresso
 
-As instruções completas e o contato estão no [README](README.md). Consulte os [créditos](CREDITOS.txt) e os [hashes dos arquivos](SHA256SUMS.txt).
+O **PvP Online está indisponível**. O multiplayer local continua disponível no computador.
+
+Use **Sair do jogo** para concluir o salvamento no Windows. O progresso fica separado da instalação; atualizações o preservam. No navegador, limpar os dados do site pode apagar o progresso. Faça uma exportação em **Controles e Progresso** antes de trocar de dispositivo; não há transferência automática entre plataformas.
+
+## Créditos e arquivos
+
+Os recursos de terceiros mantêm seus direitos e condições de uso. A distribuição gratuita não altera suas licenças. Consulte os [créditos](https://github.com/ParmalatBR/Batalha-das-Urnas/blob/main/CREDITOS.txt), o [README](https://github.com/ParmalatBR/Batalha-das-Urnas#readme) e os [hashes dos downloads](https://github.com/ParmalatBR/Batalha-das-Urnas/releases/download/v1.0.0/SHA256SUMS.txt).
+
+Contato: **[contato.batalhadasurnas@gmail.com](mailto:contato.batalhadasurnas@gmail.com)**.

@@ -1,0 +1,39 @@
+@media (pointer:coarse) and (orientation:landscape) and (max-height:550px){
+  #match .hud{left:calc(12px + var(--safe-left));right:calc(12px + var(--safe-right));top:calc(6px + var(--safe-top));width:auto;gap:0;transform:none}
+  #match .hud-person,#match .hud-person.blue{width:128px;min-width:0;max-width:128px;height:44px;padding:3px 6px;gap:0}
+  #match .hud-person strong{font-size:12px;line-height:12px;letter-spacing:0}
+  #match .hud-person [id^=life]{font-size:11px;line-height:12px;letter-spacing:0;white-space:normal}
+  #match .hud-face{display:none}
+  #match .session-clock{position:fixed;top:calc(5px + var(--safe-top));bottom:auto;left:50%;transform:translateX(-50%);padding:2px 10px;min-width:100px;max-width:180px}
+  #match .session-clock strong{font-size:19px;line-height:1}
+  #match .session-clock>span{font-size:7px;letter-spacing:.5px}
+  #match .session-clock #roundLabel{display:block;font-size:7px;line-height:1.1}
+  #match .session-clock #seriesGoal{display:none}
+  #match .game-tools{left:calc(12px + var(--safe-left));right:auto;top:calc(60px + var(--safe-top));display:grid;grid-template-columns:repeat(2,32px);gap:6px}
+  #match .game-tools button{width:32px;height:32px;font-size:20px}
+  #match .touch-pad{left:calc(12px + var(--safe-left));right:calc(12px + var(--safe-right));bottom:calc(8px + var(--safe-bottom));align-items:flex-end}
+  #match .touch-pad>div:last-child{flex-direction:column;gap:8px}
+  #match .touch-pad #specialTouch{width:50px;height:50px;font-size:23px}
+  #match .touch-pad #bombTouch{width:58px;height:58px;font-size:27px}
+  #match .expansion-hud{inset:calc(58px + var(--safe-top)) calc(12px + var(--safe-right)) auto auto;width:112px;display:flex;flex-direction:column;align-items:stretch;gap:5px}
+  #match #bossHealth{width:112px;padding:4px 6px;font-size:9px;line-height:1.15}
+  #match #bossHealth progress{height:5px}
+  #match #signatureButton{width:112px;max-width:112px;min-height:34px;padding:5px;font-size:11px;line-height:1.1;white-space:normal}
+  #match #activeEffects{font-size:9px;padding:2px;max-height:24px;overflow:hidden;order:3}
+  #match .game-footer{left:calc(12px + var(--safe-left));right:auto;top:calc(138px + var(--safe-top));bottom:auto;width:112px;max-width:112px}
+  #match .inventory-bar,#match .arsenal{max-width:112px;gap:2px}
+  #match .arsenal{flex-wrap:wrap}
+  #match .arsenal>span{padding:1px 2px;gap:1px;font-size:10px}
+  #match .arsenal img{width:18px;height:18px}
+  #match .arsenal b{font-size:11px}
+  #match .bomb-stock{display:none}
+  #match .pickup-toast{top:calc(55px + var(--safe-top));max-width:40%;pointer-events:none}
+  #match .context-caption{bottom:calc(10px + var(--safe-bottom));max-width:45%;pointer-events:none}
+}
+@media (pointer:coarse) and (orientation:landscape) and (max-height:320px){
+  #match .game-tools{top:calc(55px + var(--safe-top));grid-template-columns:repeat(2,32px)}
+  #match .game-tools #fullscreen,#match .game-tools .sound-toggle{display:none}
+  #match .game-footer{top:calc(94px + var(--safe-top))}
+  #match #signatureButton{min-height:32px;font-size:10px}
+  #match #activeEffects{display:none}
+}

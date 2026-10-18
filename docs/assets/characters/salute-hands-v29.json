@@ -1,0 +1,42 @@
+{
+  "image": "assets/characters/salute-hands-v29.png",
+  "version": 29,
+  "alphaCutoff": 0.04,
+  "cells": {
+    "salute": {
+      "light": {
+        "x": 168,
+        "y": 104,
+        "w": 705,
+        "h": 444,
+        "wrist": [
+          42,
+          381
+        ],
+        "angleOffset": 1.0471975511965976
+      },
+      "medium": {
+        "x": 168,
+        "y": 586,
+        "w": 705,
+        "h": 448,
+        "wrist": [
+          42,
+          382
+        ],
+        "angleOffset": 1.0471975511965976
+      },
+      "dark": {
+        "x": 164,
+        "y": 1053,
+        "w": 698,
+        "h": 438,
+        "wrist": [
+          42,
+          380
+        ],
+        "angleOffset": 1.0471975511965976
+      }
+    }
+  }
+}

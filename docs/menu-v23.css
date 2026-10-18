@@ -1,0 +1,44 @@
+/* Translucent organic shapes let the illustrated cover show through. */
+#home{overflow:auto;background-size:cover;background-position:center;isolation:isolate}
+#home:before{background:linear-gradient(90deg,transparent 14%,#18231c33 33%,#18231c44 67%,transparent 86%),linear-gradient(0deg,#102019e8,transparent 24%,transparent 80%,#30281633);pointer-events:none}
+#home .title-block{position:relative;left:auto;top:auto;width:auto;transform:none;margin:4.5vh auto 0;text-align:center;pointer-events:none}
+#home h1{font-size:clamp(48px,7vh,84px);margin:8px 0 12px;line-height:.85;letter-spacing:-2px}
+#home .title-das{font-size:.3em}
+#home .scribble{font-size:clamp(17px,2.5vh,27px)}
+#home .title-rule{font-size:8px;letter-spacing:1.7px;background:#f5dfacbb;padding:5px 12px;border:0;border-radius:2px;color:#3b3526}
+#home .edition{font-size:8px;margin-top:10px;letter-spacing:2px;width:100%;z-index:1}
+#home[data-menu-group="root"] .home-nav{margin-top:35px}
+#home .home-nav{position:relative;inset:auto;transform:none;width:min(440px,42vw);margin:20px auto 65px;display:block;text-align:left}
+.menu-heading{text-align:center;display:block!important;color:#fff3cd;text-shadow:0 2px 7px #172c1c;margin:0 0 12px}
+.menu-heading>span{font:700 8px 'Roboto Condensed',sans-serif;letter-spacing:2.6px}
+.menu-heading h2{font:500 25px 'Fraunces',Georgia,serif;margin:4px 0 0;letter-spacing:-.5px}
+#home .home-nav .ballot-menu{display:flex;flex-direction:column;flex-wrap:nowrap;gap:9px;width:100%}
+.ballot-button{position:relative;isolation:isolate;display:grid;place-items:center;min-height:59px;width:100%;padding:12px 32px;text-align:center;border:0;background:transparent;color:#fff0c9;box-shadow:none;transition:transform .22s,color .22s;animation:ballot-arrive .4s both;animation-delay:calc(var(--ballot-index)*45ms);cursor:pointer}
+.ballot-button:before{content:'';position:absolute;inset:0;z-index:-1;border-radius:54% 46% 51% 49% / 36% 46% 54% 64%;background:linear-gradient(100deg,#152b2166,#15302485 48%,#192a2166);border:1px solid #f3d49340;box-shadow:inset 0 1px 8px #fff2b30d,0 6px 18px #101b1726;backdrop-filter:blur(2px);transform:rotate(-.45deg);transition:background .22s,box-shadow .22s,border-color .22s}
+.ballot-button:nth-child(even):before{border-radius:48% 52% 46% 54% / 56% 36% 64% 44%;transform:rotate(.4deg)}
+.ballot-button:hover,.ballot-button:focus-visible{transform:translateY(-2px);color:#fff9e7;outline:none}
+.ballot-button:hover:before,.ballot-button:focus-visible:before{background:linear-gradient(100deg,#203b2c7d,#284334a3 48%,#26382b7d);border-color:#ffe8a8ab;box-shadow:inset 0 1px 12px #ffefab14,0 7px 23px #091b1640}
+.ballot-button:focus-visible:before{outline:2px solid #ffe8ab;outline-offset:3px}
+.ballot-button:active{transform:translateY(1px) scale(.99)}
+.menu-secondary{position:fixed;left:max(28px,env(safe-area-inset-left));bottom:max(14px,env(safe-area-inset-bottom));z-index:3;display:flex;gap:8px;align-items:center}
+.menu-info-link{padding:7px 14px;min-height:32px;border:1px solid #f3d49330;border-radius:999px;background:#142b2059;color:#f2e6c8;font:14px 'Roboto Condensed',sans-serif;text-align:center;text-shadow:0 1px 4px #08150d;transition:background .2s,color .2s}
+.menu-info-link:hover,.menu-info-link:focus-visible{background:#213b2bb3;color:#fff7dd;border-color:#f3d49388}
+.menu-info-link:focus-visible{outline:2px solid #ffe8ab;outline-offset:3px}
+#home[data-menu-group="root"] .home-footer{justify-content:flex-end}
+#home[data-menu-group="root"] .home-footer>span{display:none}
+.ballot-label{font:29px 'Bangers',Impact,sans-serif;font-weight:400;letter-spacing:1.4px;line-height:1.15;text-align:center;text-shadow:0 2px 2px #18261ee0,0 0 12px #142318a3;pointer-events:none}
+#home .menu-back{display:block;margin:17px auto 0;padding:7px 22px;background:#142b2070;border:1px solid #d9bd7a44;border-radius:50%;color:#fff0c6;text-align:center;font:13px 'Roboto Condensed',sans-serif;letter-spacing:.5px}.menu-back:hover{background:#35563a99}
+#home .home-footer{position:fixed;bottom:14px;left:28px;right:28px;pointer-events:none;z-index:2}#home .home-footer button{pointer-events:auto}#home .home-footer>span{color:#fff0ce;text-shadow:0 2px 4px #061809;font-size:8px}
+.reduced-motion .ballot-button,.reduced-motion .ballot-button:before{animation:none!important;transition:none!important}
+.integrated-section{border-top:2px solid #baa16b;margin-top:32px;padding-top:20px}.integrated-section>h3{font:500 27px 'Fraunces',Georgia,serif;margin:8px 0 12px}.integrated-section .power-grid{margin-top:18px}.about-contact{padding:16px;background:#cfb57a22;border:1px solid #b7a17777}.about-contact a{overflow-wrap:anywhere}
+.achievement-scoreboard{max-width:1250px;margin:35px auto}.achievement-scoreboard h3{font:30px 'Fraunces',Georgia,serif}.achievement-scoreboard .duel-history article{background:#071d2a55;color:#f4e6c4}.achievement-scoreboard .duel-history small,.achievement-scoreboard .duel-history span{color:#d6ceb7}.achievement-scoreboard .history-empty{border:1px solid #d4bd7b55;background:#142b2c55;padding:22px}.progress-links{display:flex;flex-wrap:wrap;gap:10px;margin:14px 0 20px}.local-duel .mode-choice{display:none}
+@keyframes ballot-arrive{from{opacity:0;translate:0 12px}to{opacity:1;translate:0 0}}
+@media(min-height:850px){#home .home-nav{margin-top:30px}.ballot-button{min-height:67px}#home .home-nav .ballot-menu{gap:12px}}
+@media(orientation:landscape) and (max-height:650px){#home .title-block{margin-top:20px}#home h1{font-size:clamp(37px,10vh,60px);margin:4px 0 8px}#home .scribble{font-size:16px}#home .title-rule{font-size:6px;padding:3px 9px}#home .edition{font-size:6px;margin-top:5px}#home .home-nav{width:min(410px,46vw);margin:9px auto 35px}.menu-heading{margin-bottom:7px}.menu-heading>span{display:none}.menu-heading h2{font-size:18px;margin:0}.ballot-button{min-height:37px;padding:6px 12px;gap:10px}.ballot-label{font-size:22px}#home .home-nav .ballot-menu{gap:6px}#home .menu-back{margin:10px auto 0;padding:4px 10px;font-size:11px}#home .home-footer{bottom:8px;left:18px;right:18px}#home .home-footer>span{font-size:6px}#home .home-footer button{font-size:11px}}
+@media(orientation:landscape) and (max-height:420px){#home .title-block{margin-top:14px}#home h1{font-size:36px;line-height:.82;margin:3px 0 5px}#home .scribble{font-size:13px}#home .title-rule{display:none}#home .home-nav{margin-top:8px}.ballot-button{min-height:35px;padding:5px 12px}.menu-heading h2{font-size:16px}.ballot-label{font-size:22px}#home .menu-back{margin-top:8px}}
+@media(orientation:portrait){#home .home-nav{width:min(440px,85vw)}#home .title-block{margin-top:60px}}
+@media(max-width:800px),(orientation:landscape) and (max-height:650px){.menu-secondary{left:max(18px,env(safe-area-inset-left));bottom:max(8px,env(safe-area-inset-bottom));gap:6px}.menu-info-link{font-size:12px;min-height:34px;padding:7px 11px}}
+@media(prefers-reduced-motion:reduce){.ballot-button,.ballot-button:before{animation:none!important;transition:none!important}}
+
+@media(orientation:landscape) and (max-height:650px){#home[data-menu-group="root"] .home-nav{margin-top:16px}.ballot-label{font-size:22px}}
+@media(orientation:landscape) and (max-height:420px){#home[data-menu-group="root"] .home-nav{margin-top:14px}.ballot-label{font-size:21px}}
