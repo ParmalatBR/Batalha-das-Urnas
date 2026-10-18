@@ -47,6 +47,8 @@ O jogo abre em tela cheia; **F11** alterna para janela. Ao terminar, use **Sair 
 
 ### Android experimental
 
+**APK 1.0.1:** joystick circular, arena maximizada e telas compactas na horizontal, com os mesmos ajustes de toque da versão para iPhone. Para atualizar, instale o novo APK sobre o anterior, sem desinstalar; a assinatura e o identificador do aplicativo foram mantidos.
+
 Baixe o **[APK](https://github.com/ParmalatBR/Batalha-das-Urnas/releases/download/v1.0.0/Batalha-das-Urnas-Android.apk)** no celular, abra o arquivo e siga a autorização de instalação dessa origem, se solicitada pelo Android. Jogue na horizontal.
 
 **O APK ainda não foi testado em aparelho físico.** Instalação, desempenho, áudio, controles simultâneos e retomada após suspensão precisam dessa confirmação. Esta entrega usa instalação direta por APK, sem Google Play. Respeite os avisos de segurança do aparelho.

@@ -32,3 +32,7 @@ Use **Sair do jogo** para concluir o salvamento no Windows. O progresso fica sep
 Os recursos de terceiros mantêm seus direitos e condições de uso. A distribuição gratuita não altera suas licenças. Consulte os [créditos](https://github.com/ParmalatBR/Batalha-das-Urnas/blob/main/CREDITOS.txt), o [README](https://github.com/ParmalatBR/Batalha-das-Urnas#readme) e os [hashes dos downloads](https://github.com/ParmalatBR/Batalha-das-Urnas/releases/download/v1.0.0/SHA256SUMS.txt).
 
 Contato: **[contato.batalhadasurnas@gmail.com](mailto:contato.batalhadasurnas@gmail.com)**.
+
+## Atualização do APK Android — 1.0.1 (18/10/2026)
+
+O APK incorpora o joystick circular, controles multitouch, arena maximizada automaticamente, telas de transição compactas na horizontal e proteção contra seleção de texto, como na versão para iPhone. Windows e web não foram alterados. A atualização mantém o mesmo aplicativo e assinatura para preservar o progresso existente; instale sobre a versão anterior, sem desinstalá-la. O Android permanece experimental, sem teste em aparelho físico.
