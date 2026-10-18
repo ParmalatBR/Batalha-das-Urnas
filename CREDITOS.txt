@@ -1,0 +1,948 @@
+BATALHA DAS URNAS — CRÉDITOS V37
+Créditos de criação e fontes dos materiais utilizados. A indicação de pessoas, instituições ou publicadores não implica apoio ao jogo.
+
+MÚSICA
+Bossa Antigua — Kevin MacLeod (incompetech.com). Licensed under Creative Commons: By Attribution 4.0. https://creativecommons.org/licenses/by/4.0/
+Fonte: https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1700069
+Alterações: Arquivo MP3 original sem cortes. Reprodução em volume reduzido, com fade de entrada e saída.
+
+BossaBossa — Kevin MacLeod (incompetech.com). Licensed under Creative Commons: By Attribution 4.0. https://creativecommons.org/licenses/by/4.0/
+Fonte: https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1600055
+Alterações: Arquivo MP3 original sem cortes. Reprodução em volume reduzido, com fade de entrada e saída.
+
+Samba Isobel — Kevin MacLeod (incompetech.com). Licensed under Creative Commons: By Attribution 4.0. https://creativecommons.org/licenses/by/4.0/
+Fonte: https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1700071
+Alterações: Arquivo MP3 original sem cortes. Reprodução em volume reduzido, com fade de entrada e saída.
+
+Five Armies — Kevin MacLeod (incompetech.com). Licensed under Creative Commons: By Attribution 4.0. https://creativecommons.org/licenses/by/4.0/
+Fonte: https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1100875
+Alterações: Gravação completa. Ganho linear de -9,32 dB, conversão MP3 estéreo 44,1 kHz / 160 kbps. Sem rearranjo, corte, alteração de andamento ou de altura. Loop na reprodução, com o encerramento original preservado.
+
+Clash Defiant — Kevin MacLeod (incompetech.com). Licensed under Creative Commons: By Attribution 4.0. https://creativecommons.org/licenses/by/4.0/
+Fonte: https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1600003
+Alterações: Trecho contínuo dos primeiros 120 s, fade de entrada 40 ms e saída 1 s. Ganho linear -8.7 dB; MP3 estéreo 44,1 kHz / 160 kbps. Sem alteração de andamento/altura; loop na reprodução.
+
+Volatile Reaction — Kevin MacLeod (incompetech.com). Licensed under Creative Commons: By Attribution 4.0. https://creativecommons.org/licenses/by/4.0/
+Fonte: https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1400039
+Alterações: Gravação completa. Ganho linear -12.1 dB; MP3 estéreo 44,1 kHz / 160 kbps. Sem alteração de andamento/altura; loop na reprodução.
+
+FOTOGRAFIAS
+PlenárioCamaradeputados.jpg — Câmara dos Deputados - TV Câmara
+Fonte: https://commons.wikimedia.org/wiki/File:Plen%C3%A1rioCamaradeputados.jpg
+Licença/política: CC BY-SA 4.0
+Referência: https://creativecommons.org/licenses/by-sa/4.0
+Alterações: Resized and converted to WebP. No compositing, element substitution or AI generation. In-game vignette is applied by the renderer.
+
+Fachada do Congresso Nacional (48079662857).jpg — Leonardo Sá/Agência Senado
+Fonte: https://commons.wikimedia.org/wiki/File:Fachada_do_Congresso_Nacional_(48079662857).jpg
+Licença/política: CC BY 2.0
+Referência: https://creativecommons.org/licenses/by/2.0
+Alterações: Resized and converted to WebP. No compositing, element substitution or AI generation. In-game vignette is applied by the renderer.
+
+Cenário debate 2020 Difusora.jpg — Artur Oliveira Silva
+Fonte: https://commons.wikimedia.org/wiki/File:Cen%C3%A1rio_debate_2020_Difusora.jpg
+Licença/política: CC BY-SA 4.0
+Referência: https://creativecommons.org/licenses/by-sa/4.0
+Alterações: Resized and converted to WebP. No compositing, element substitution or AI generation. In-game vignette is applied by the renderer.
+
+Esplanada dos Ministérios, Brasília DF 04 2006.jpg — Mario Roberto Durán Ortiz
+Fonte: https://commons.wikimedia.org/wiki/File:Esplanada_dos_Minist%C3%A9rios,_Bras%C3%ADlia_DF_04_2006.jpg
+Licença/política: Public domain
+Referência: https://creativecommons.org/publicdomain/mark/1.0/
+Alterações: Resized and converted to WebP. No compositing, element substitution or AI generation. In-game vignette is applied by the renderer.
+
+Sede da Polícia Federal (52830107256).jpg — Marcos Oliveira/Agência Senado
+Fonte: https://commons.wikimedia.org/wiki/File:Sede_da_Pol%C3%ADcia_Federal_(52830107256).jpg
+Licença/política: CC BY 2.0
+Referência: https://creativecommons.org/licenses/by/2.0
+Alterações: Resized and converted to WebP. No compositing, element substitution or AI generation. In-game vignette is applied by the renderer.
+
+PGR Brasilia 01.jpg — Luis Dantas
+Fonte: https://commons.wikimedia.org/wiki/File:PGR_Brasilia_01.jpg
+Licença/política: Public domain
+Referência: https://creativecommons.org/publicdomain/mark/1.0/
+Alterações: Resized and converted to WebP. No compositing, element substitution or AI generation. In-game vignette is applied by the renderer.
+
+Fachada do Palácio do Planalto.jpg — Pedro França/Agência Senado
+Fonte: https://commons.wikimedia.org/wiki/File:Fachada_do_Pal%C3%A1cio_do_Planalto.jpg
+Licença/política: CC BY 2.0
+Referência: https://creativecommons.org/licenses/by/2.0
+Alterações: Resized and converted to WebP. No compositing, element substitution or AI generation. In-game vignette is applied by the renderer.
+
+Imagens de Brasília - Praça dos Três Poderes - 49732065671.jpg — Jefferson Rudy/Agência Senado
+Fonte: https://commons.wikimedia.org/wiki/File:Imagens_de_Bras%C3%ADlia_-_Pra%C3%A7a_dos_Tr%C3%AAs_Poderes_-_49732065671.jpg
+Licença/política: CC BY 2.0
+Referência: https://creativecommons.org/licenses/by/2.0
+Alterações: Resized and converted to WebP. No compositing, element substitution or AI generation. In-game vignette is applied by the renderer.
+
+Plenário do Senado (27892785047).jpg — Jonas Pereira/Agência Senado
+Fonte: https://commons.wikimedia.org/wiki/File:Plen%C3%A1rio_do_Senado_(27892785047).jpg
+Licença/política: CC BY 2.0
+Referência: https://creativecommons.org/licenses/by/2.0
+Alterações: Resized and converted to WebP. No compositing, element substitution or AI generation. In-game vignette is applied by the renderer.
+
+STF Plenario.jpg — STF
+Fonte: https://commons.wikimedia.org/wiki/File:STF_Plenario.jpg
+Licença/política: CC BY-SA 3.0
+Referência: http://creativecommons.org/licenses/by-sa/3.0/
+Alterações: Resized and converted to WebP. No compositing, element substitution or AI generation. In-game vignette is applied by the renderer.
+
+Edifício-sede e Instalações do STJ (50087700257).jpg — Lucas Pricken/STJ
+Fonte: https://commons.wikimedia.org/wiki/File:Edif%C3%ADcio-sede_e_Instala%C3%A7%C3%B5es_do_STJ_(50087700257).jpg
+Licença/política: CC BY 2.0
+Referência: https://creativecommons.org/licenses/by/2.0
+Alterações: Resized and converted to WebP. No compositing, element substitution or AI generation. In-game vignette is applied by the renderer.
+
+Sessão plenária do Tribunal Superior Eleitoral - 21 de agosto de 2025 13.jpg — Alejandro Zambrana/Secom/TSE
+Fonte: https://commons.wikimedia.org/wiki/File:Sess%C3%A3o_plen%C3%A1ria_do_Tribunal_Superior_Eleitoral_-_21_de_agosto_de_2025_13.jpg
+Licença/política: Public domain
+Referência: https://creativecommons.org/publicdomain/mark/1.0/
+Alterações: Resized and converted to WebP. No compositing, element substitution or AI generation. In-game vignette is applied by the renderer.
+
+Justiça Federal em Curitiba — fachada do Foro Federal Manoel de Oliveira Franco Sobrinho — DAR7
+Fonte: https://commons.wikimedia.org/wiki/File:Cabral_Curitiba_PR_Brasil_Justi%C3%A7a_Federal_(3).jpg
+Licença/política: CC BY-SA 4.0
+Referência: https://creativecommons.org/licenses/by-sa/4.0/
+Alterações: Recorte retangular do rodapé (4000×2250 a partir do canto superior esquerdo), redimensionamento e conversão WebP. Sem remoção ou substituição de elementos, composição ou geração por IA. Derivado sob CC BY-SA 4.0.
+
+Fachada da Advocacia-Geral da União, Brasília — Rafa Neddermeyer/Agência Brasil
+Fonte: https://agendadopoder.com.br/predio-da-agu-2/
+Licença/política: Reprodução gratuita mediante crédito — política do banco de imagens da Agência Brasil; licença CC não indicada na página atual
+Referência: https://www.gov.br/pt-br/servicos/acessar-material-fotojornalistico-gratuitamente
+Alterações: Somente redimensionamento e conversão WebP; sem recorte, composição, remoção de elementos ou geração por IA.
+
+GRAVAÇÕES DE VOZ
+Falantes identificados abaixo; créditos de emissoras/canais indicam a fonte utilizada. Não indicam licença aberta ou autorização.
+Lula — Nós vamos ganhar essas eleições!
+Fonte: UOL (produtor/publicador da entrevista) — https://noticias.uol.com.br/politica/ultimas-noticias/2022/07/27/entrevista-lula-uol-integra.amp.htm
+Gravação utilizada: https://www.youtube.com/watch?v=vkGJ1GJ_ics&t=3982s
+
+Flávio Bolsonaro — O Brasil vai vencer!
+Fonte: Poder360 (canal/publicador da gravação) — https://www.poder360.com.br/poder-eleicoes-2026/assista-ao-video-e-leia-o-discurso-de-flavio-bolsonaro-em-ato-de-copacabana/
+Gravação utilizada: https://www.youtube.com/watch?v=ethupghmTdQ&t=1889s
+
+Gleisi Hoffmann — Cê devia parar de mentir pras pessoas!
+Fonte: Band Paraná — https://www.youtube.com/watch?v=DwBH0uJu53A
+
+Gleisi Hoffmann — Vocês perderam a eleição!
+Fonte: Band Paraná — https://www.youtube.com/watch?v=DwBH0uJu53A
+
+Edson Fachin — Não errar por omissão e não ceder por conveniência.
+Fonte: CNN Brasil — https://www.youtube.com/watch?v=icoGCAJQYYc
+
+Alexandre de Moraes · Xandão — A democracia venceu!
+Fonte: Itatiaia — https://www.youtube.com/watch?v=-81gdjSccW0
+
+Nayib Bukele — Toda a oposição junta foi pulverizada!
+Original (es): Toda la oposición junta quedó pulverizada.
+Fonte: FRANCE 24 Español / transmissão ao vivo Canal 10 — https://www.dailymotion.com/video/x8s6c4o
+
+Xi Jinping — O povo vencerá!
+Original (zh): 人民必胜！
+Fonte: CCTV / transmissão do discurso de Xi Jinping — https://tv.cctv.com/2015/09/24/VIDE1443070080866426.shtml
+
+Vladimir Putin — Nós vencemos!
+Original (ru): Мы победили!
+Fonte: ПримаМедиа ТВ / imagens da transmissão Россия 24 — https://www.youtube.com/watch?v=usDoIZm3aj0
+
+Vladimir Putin — Eu prometi que venceríamos! Nós vencemos!
+Original (ru): Я обещал вам, что мы победим! Мы победили!
+Fonte: ПримаМедиа ТВ / imagens da transmissão Россия 24 — https://www.youtube.com/watch?v=usDoIZm3aj0
+
+Jorge Messias — A história ela não acaba aqui, ela será dada a sequência.
+Fonte: Gazeta do Povo — https://www.youtube.com/watch?v=2827KwDRq1E
+
+Lula — Quem perdeu, chora.
+Fonte: Super Rádio Tupi; publicação oficial PT - Partido dos Trabalhadores; voz de Luiz Inácio Lula da Silva — https://www.youtube.com/watch?v=ZmaLh-J9xUw&t=484
+Gravação utilizada: https://www.youtube.com/watch?v=ZmaLh-J9xUw
+
+Flávio Bolsonaro — Chupa, Lula!
+Fonte: Goiás365; voz de Flávio Bolsonaro — https://www.goias365.com.br/durante-ato-de-campanha-em-goiania-flavio-bolsonaro-provoca-presidente-chupa-lula/
+Gravação utilizada: https://www.instagram.com/reel/DdzdXF5EUpW/
+
+Lula — Chupa, que a cana é doce, meu filho!
+Fonte: Lula; reprodução em O Antagonista — https://www.metro1.com.br/noticias/entretenimento/35672,em-provocacao-a-temer-video-de-lula-com-cachaca-viraliza-na-internet
+Gravação utilizada: https://www.dailymotion.com/video/x9lohrc
+
+Flávio Bolsonaro — Como você é previsível, né?
+Fonte: Flávio Bolsonaro; reprodução TNH1 — https://www.tnh1.com.br/noticia/nid/em-video-nas-redes-sociais-flavio-confirma-presenca-em-debate-da-band/
+Gravação utilizada: https://www.dailymotion.com/video/xbn5p6i
+
+Damares Alves — Aceita que dói menos!
+Fonte: Damares Alves; Diário do Rodrigo Lima — https://www.youtube.com/watch?v=0DiQUYJ1I3g
+
+Marcos Rogério — Vossa Excelência está nervoso!
+Fonte: Marcos Rogério; canal Marcos Rogério, retransmissão TV Senado/GloboNews — https://www.youtube.com/watch?v=1cTBhqdYNZU
+
+Magno Malta — Sentiu, sentiu!
+Fonte: Magno Malta; TV Senado, reprodução Folha Política — https://legis.senado.leg.br/escriba-servicosweb/reuniao/pdf/13114
+Gravação utilizada: https://www.youtube.com/watch?v=hbEd77gXM_Y
+
+Nikolas Ferreira — Não, papai, chora!
+Fonte: Nikolas Ferreira; reprodução Estado de Minas — https://www.em.com.br/politica/2026/06/7441036-nikolas-reage-a-criticas-a-ida-aos-eua-chora-voces-estao-com-inveja.html
+Gravação utilizada: https://www.dailymotion.com/video/xaftzai
+
+Tarcísio de Freitas — Supera!
+Fonte: Tarcísio de Freitas; g1/TV Globo — https://www.youtube.com/watch?v=TVNDhPHuZzo
+
+Tarcísio de Freitas — Você não entregou nada!
+Fonte: Tarcísio de Freitas; g1/TV Globo — https://www.youtube.com/watch?v=TVNDhPHuZzo
+
+Sóstenes Cavalcante — O choro é livre!
+Fonte: Sóstenes Cavalcante; TV Câmara, reprodução Folha Política — https://www.youtube.com/watch?v=tvrEverL3lc
+
+Alexandre de Moraes · Xandão — É patético e medíocre!
+Fonte: TV Justiça; publicação jornalística UOL; voz de Alexandre de Moraes — https://www.youtube.com/watch?v=bRexYBI5_LU&t=10
+Gravação utilizada: https://www.youtube.com/watch?v=bRexYBI5_LU
+
+Flávio Dino — O senhor acaba de entrar no meu livro de memórias!
+Fonte: TV Câmara; publicação jornalística Metrópoles; voz de Flávio Dino — https://www.youtube.com/watch?v=P3ijn1j8kWU&t=10
+Gravação utilizada: https://www.youtube.com/watch?v=P3ijn1j8kWU
+
+Donald Trump — Você não tem as cartas agora.
+Original (en): You don't have the cards right now.
+Fonte: ABC News — https://www.youtube.com/watch?v=iXIJBf8eeTg
+
+Vladimir Putin — Dá vontade de dizer: que tédio, meninas!
+Original (ru): Хочется сказать: скучно, девочки.
+Fonte: Meduza — https://www.youtube.com/watch?v=hykwn2HBVbE
+
+Nayib Bukele — Entregamos todos: dois pelo preço de um!
+Original (es): Se los entregamos todos al dos por uno.
+Fonte: Secretaría de Prensa El Salvador — https://www.youtube.com/watch?v=Vef1l2hLjZw
+
+Erika Hilton — E se chorar, manda áudio!
+Original (pt): E pode chorar na cama que é lugar quente e se chorar manda áudio, porque eu vou seguir dizendo que papelão.
+Fonte: Erika Hilton · Instagram próprio; reprodução TV Resistência Contemporânea — https://www.youtube.com/watch?v=Kon87TVZEYY
+Gravação utilizada: https://www.instagram.com/p/DT569abFJoX/
+
+Guilherme Boulos — Você é uma caricatura!
+Original (pt): Você veio pra tumultuar. Você é uma caricatura.
+Fonte: Terra Brasil · debate FAAP/Estadão — https://www.youtube.com/watch?v=9ZHeKutt_cs
+
+Dias Toffoli — Vossa Excelência tem a capacidade premonitória, então!
+Fonte: TV Justiça; republicação jorbacdc em 16/08/2013; voz de Dias Toffoli — https://www.youtube.com/watch?v=PitNLYbznwI&t=20
+Gravação utilizada: https://www.youtube.com/watch?v=PitNLYbznwI
+
+Sérgio Moro — Ô doutor, não precisa ficar nervoso, doutor!
+Fonte: Gravação da audiência judicial de 10/05/2017; publicação O Antagonista; voz de Sérgio Moro — https://www.youtube.com/watch?v=t-9MEGAq1_A&t=110
+Gravação utilizada: https://www.youtube.com/watch?v=t-9MEGAq1_A
+
+Gilmar Mendes — Lamber as feridas, eventualmente chorar.
+Fonte: Poder360, gravação da posse de Carlos Fávaro em 02/01/2023; voz de Gilmar Mendes — https://www.youtube.com/watch?v=ZbVKbsWxXas&t=2501
+Gravação utilizada: https://www.youtube.com/watch?v=ZbVKbsWxXas
+
+Flávio Bolsonaro — Não aprendeu nada!
+Original (pt): Não aprendeu nada!
+Fonte: Poder360; gravação de Diogo Campiteli — https://www.youtube.com/watch?v=3ArcOOY_fpY
+
+Xi Jinping — É granada para matar pulga!
+Original (zh): 就是手榴弹炸跳蚤
+Fonte: Imagens CCTV/央视; republicação Chinese Political Leader Speech Without Documents — https://www.youtube.com/watch?v=3r9OcN9Xb84
+
+Nunes Marques — Contra fatos não existem argumentos.
+Original (pt): Contra fatos não existem argumentos.
+Fonte: Terra Brasil / imagens TV Justiça — https://www.dailymotion.com/video/xb82cuu
+
+André Mendonça — A desfaçatez de Vossa Excelência.
+Original (pt): A desfaçatez de Vossa Excelência.
+Fonte: CartaCapital / imagens STF — https://www.youtube.com/watch?v=owqcUzIz-8o
+
+Fernando Haddad — Acho que você é uma pessoa muito problemática, inclusive psicologicamente.
+Fonte: Fernando Haddad; TV Cultura / Manhattan Connection — https://www.youtube.com/watch?v=2_Z5zyjgags
+
+Marina Silva — Deu tempo de pesquisar, hein, deputado?
+Fonte: Marina Silva; registro da Câmara dos Deputados publicado pelo Poder360 — https://www.youtube.com/watch?v=1EucL-PhO7Q
+
+André Janones — Mas depois não vem chorar, não, que vocês não aguentam.
+Fonte: André Janones — https://www.youtube.com/watch?v=3xiVE5chKqk
+
+Luiz Fux — Vocês sabem que vocês não podem com a gente.
+Fonte: Luiz Fux; RedeTV / Data Venia — https://www.youtube.com/watch?v=i9tmOzLOL0k
+
+Luiz Fux — Vai ficar chato pra vocês.
+Fonte: Luiz Fux; RedeTV / Data Venia — https://www.youtube.com/watch?v=i9tmOzLOL0k
+
+Edson Fachin — Simples assim e grave assim.
+Fonte: Roda Viva / TV Cultura — https://www.youtube.com/watch?v=ZNBwRELg2S4
+
+Edson Fachin — Portanto, ninguém está acima da lei.
+Fonte: Roda Viva / TV Cultura — https://www.youtube.com/watch?v=ZNBwRELg2S4
+
+Jorge Messias — Doa a quem doer.
+Fonte: Canal Gov / EBC; retransmissão no canal PT - Partido dos Trabalhadores — https://www.youtube.com/watch?v=obaZr0_vlN0
+
+André Janones — Explode e comemora!
+Fonte: André Janones — https://www.youtube.com/watch?v=re4_nRe5egM
+
+Donald Trump — Você não está ganhando essa!
+Original (en): You're not winning this.
+Fonte: ABC News — https://www.youtube.com/watch?v=iXIJBf8eeTg
+
+Donald Trump — Você já falou bastante!
+Original (en): You've done a lot of talking.
+Fonte: ABC News — https://www.youtube.com/watch?v=iXIJBf8eeTg
+
+Donald Trump — Nós vencemos!
+Original (en): We won!
+Fonte: News24 — https://www.youtube.com/watch?v=RIgV2oTe1UM
+
+Nayib Bukele — Fiquem quietos e deixem-se prender!
+Original (es): Esténse tranquilos y déjense arrestar.
+Fonte: Secretaría de Prensa El Salvador — https://www.youtube.com/watch?v=Vef1l2hLjZw
+
+Vladimir Putin — Gostando ou não, aguenta, minha bela!
+Original (ru): Нравится, не нравится — терпи, моя красавица.
+Fonte: NewsBlock Ukraine — https://www.youtube.com/watch?v=MBlaRRrkYIc
+
+Nikolas Ferreira — Nunca, nunca subestime um piá!
+Original (pt): Nunca, nunca subestime um piá!
+Fonte: UOL — https://www.youtube.com/watch?v=2DJKEbV-x_c
+
+Magno Malta — Diga que é mentira!
+Original (pt): Diga que é mentira!
+Fonte: O Antagonista — https://www.youtube.com/watch?v=ahERRIz3PLM
+
+Marcos Rogério — Fecha a matraca!
+Original (pt): Fecha a matraca!
+Fonte: Senado Federal — https://www25.senado.leg.br/web/atividade/notas-taquigraficas/-/notas/r/10271
+Gravação utilizada: https://legis.senado.leg.br/escriba-servicosweb/reuniao/stream?arq=2021/COMISSOES/CPIPANDEMIA/0298/0298_037_20210930_122413867
+
+Sóstenes Cavalcante — Basta de mentira!
+Original (pt): Basta de mentira!
+Fonte: Metrópoles — https://www.youtube.com/watch?v=oM41ZigZbFg
+
+André Mendonça — Uma grande vitória que Deus nos preparou.
+Fonte: Poder360 — https://www.youtube.com/watch?v=cF65XRbWGFM
+
+Erika Hilton — Essa vitória é nossa!
+Fonte: Itatiaia — https://www.youtube.com/watch?v=VsvwvW60cDY
+
+Fernando Haddad — Viva o Brasil!
+Fonte: Luiz Frederico Rêgo — https://www.youtube.com/watch?v=yQID8wjdH6I
+
+Sérgio Moro — Conseguimos essa vitória. Muito importante!
+Fonte: Terra Brasil — https://www.dailymotion.com/video/xa7j5cy
+
+Magno Malta — Uma retumbante vitória!
+Fonte: Magno Malta — https://www.youtube.com/watch?v=XPEIEhh5y6o
+
+Damares Alves — Essa é uma vitória de todos nós.
+Fonte: UOL — https://www.youtube.com/watch?v=cskTUB0dmCc
+
+Luiz Fux — A democracia venceu.
+Fonte: UOL — https://www.youtube.com/watch?v=TSLLdawCIes
+
+Marcos Rogério — Vamos celebrar!
+Fonte: Eu Ideal — https://www.youtube.com/watch?v=vXA7jH-FHnw
+
+Flávio Dino — Por isso é uma vitória que nós qualificamos como completa.
+Fonte: Grupo Difusora — https://www.youtube.com/watch?v=dsLSMtFCIvg
+
+Nunes Marques — E declaro encerrada esta sessão.
+Fonte: justicaeleitoral — https://www.youtube.com/watch?v=2nfOA9aj1zU
+
+Dias Toffoli — Declaro encerrada essa sessão extraordinária. Tenham uma boa noite, todos.
+Fonte: Independente — https://www.youtube.com/watch?v=znA0vmbqvtc
+
+Edson Fachin — E meu voto é no sentido de denegar a ordem. É como voto.
+Fonte: Poder360 — https://www.youtube.com/watch?v=jlfG5Cz3UuQ
+
+Sóstenes Cavalcante — Está encerrada a sessão.
+Fonte: Câmara dos Deputados — https://www.camara.leg.br/evento-legislativo/73144
+Gravação utilizada: https://escriba.camara.leg.br/escriba-servicosweb/jsonVideo?urlJson=auditorio2_2024-05-28-23-32-00-000_240000
+
+Tarcísio de Freitas — Foi uma vitória que começou realmente na política.
+Fonte: Rádio Bandeirantes — https://www.youtube.com/watch?v=p7MTCM_KVLU
+
+Guilherme Boulos — Então, foi uma grande vitória.
+Fonte: Câmara dos Deputados — https://escriba.camara.leg.br/escriba-servicosweb/html/69153
+Gravação utilizada: https://escriba.camara.leg.br/escriba-servicosweb/jsonVideo?urlJson=auditorio2_2023-08-09-21-55-50-000_40000
+
+Marina Silva — Acho que fica mais agora como uma celebração.
+Fonte: Câmara dos Deputados — https://escriba.camara.leg.br/escriba-servicosweb/html/81690
+Gravação utilizada: https://escriba.camara.leg.br/escriba-servicosweb/jsonVideo?urlJson=plenario1_2026-04-28-17-01-37-000_240000
+
+Gilmar Mendes — E declaro encerrada essa sessão, que deve ter sido uma das mais rápidas da história.
+Fonte: justicaeleitoral — https://www.youtube.com/watch?v=vVpSrhoA7Z8
+
+Jorge Messias — Eu quero dizer que hoje nós tivemos uma vitória.
+Fonte: PT - Partido dos Trabalhadores (retransmissão do Canal Gov) — https://www.youtube.com/watch?v=bIgrGayilac
+
+ARTE E ÁUDIO DO PROJETO
+Vinhetas e efeitos originais — Áudio original produzido com assistência de IA (Codex)
+Material do projeto; não há licença de terceiros aplicável identificada
+
+Materiais e ícones — Arte produzida com assistência de IA (ImageGen)
+Arte do projeto; termos do serviço não transferem direitos de terceiros
+
+Caricaturas e atlas de personagens — Arte produzida com assistência de IA (ImageGen)
+Arte do projeto; não é autorização das pessoas retratadas nem exclusividade garantida
+
+Mãos e gestos — Arte produzida com assistência de IA (ImageGen)
+Arte do projeto; anatomia referenciada em material U.S. Navy/DVIDS
+https://www.dvidshub.net/about/copyright
+
+Rampa do Planalto — Arte produzida com assistência de IA (ImageGen), com referências Pedro França/Agência Senado e conta Flickr 24859660@N07
+Arte do projeto com atribuição às referências CC BY 2.0
+https://commons.wikimedia.org/wiki/File:Planalto_Palace_ramp_and_parlatorium.jpg
+https://www.flickr.com/photos/49143546@N06/49727771466/
+
+Menu, reações e atlas — Arte produzida com assistência de IA (ImageGen)
+Arte do projeto; direitos de terceiros não transferidos
+
+Miniaturas de arenas — Capturas do próprio jogo
+Capturas do próprio jogo
+
+FONTES E BIBLIOTECAS — AVISOS INTEGRAIS
+Bangers — SIL Open Font License 1.1
+https://openfontlicense.org/
+Copyright 2010 The Bangers Project Authors (https://github.com/googlefonts/bangers)
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
+
+
+-----------------------------------------------------------
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+-----------------------------------------------------------
+
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide
+development of collaborative font projects, to support the font creation
+efforts of academic and linguistic communities, and to provide a free and
+open framework in which fonts may be shared and improved in partnership
+with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and
+redistributed freely as long as they are not sold by themselves. The
+fonts, including any derivative works, can be bundled, embedded,
+redistributed and/or sold with any software provided that any reserved
+names are not used by derivative works. The fonts and derivatives,
+however, cannot be released under any other type of license. The
+requirement for fonts to remain under this license does not apply
+to any document created using the fonts or their derivatives.
+
+DEFINITIONS
+"Font Software" refers to the set of files released by the Copyright
+Holder(s) under this license and clearly marked as such. This may
+include source files, build scripts and documentation.
+
+"Reserved Font Name" refers to any names specified as such after the
+copyright statement(s).
+
+"Original Version" refers to the collection of Font Software components as
+distributed by the Copyright Holder(s).
+
+"Modified Version" refers to any derivative made by adding to, deleting,
+or substituting -- in part or in whole -- any of the components of the
+Original Version, by changing formats or by porting the Font Software to a
+new environment.
+
+"Author" refers to any designer, engineer, programmer, technical
+writer or other person who contributed to the Font Software.
+
+PERMISSION & CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the Font Software, to use, study, copy, merge, embed, modify,
+redistribute, and sell modified and unmodified copies of the Font
+Software, subject to the following conditions:
+
+1) Neither the Font Software nor any of its individual components,
+in Original or Modified Versions, may be sold by itself.
+
+2) Original or Modified Versions of the Font Software may be bundled,
+redistributed and/or sold with any software, provided that each copy
+contains the above copyright notice and this license. These can be
+included either as stand-alone text files, human-readable headers or
+in the appropriate machine-readable metadata fields within text or
+binary files as long as those fields can be easily viewed by the user.
+
+3) No Modified Version of the Font Software may use the Reserved Font
+Name(s) unless explicit written permission is granted by the corresponding
+Copyright Holder. This restriction only applies to the primary font name as
+presented to the users.
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
+Software shall not be used to promote, endorse or advertise any
+Modified Version, except to acknowledge the contribution(s) of the
+Copyright Holder(s) and the Author(s) or with their explicit written
+permission.
+
+5) The Font Software, modified or unmodified, in part or in whole,
+must be distributed entirely under this license, and must not be
+distributed under any other license. The requirement for fonts to
+remain under this license does not apply to any document created
+using the Font Software.
+
+TERMINATION
+This license becomes null and void if any of the above conditions are
+not met.
+
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
+OTHER DEALINGS IN THE FONT SOFTWARE.
+
+
+Caveat — SIL Open Font License 1.1
+https://openfontlicense.org/
+Copyright 2014 The Caveat Project Authors (https://github.com/googlefonts/caveat)
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
+
+
+-----------------------------------------------------------
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+-----------------------------------------------------------
+
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide
+development of collaborative font projects, to support the font creation
+efforts of academic and linguistic communities, and to provide a free and
+open framework in which fonts may be shared and improved in partnership
+with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and
+redistributed freely as long as they are not sold by themselves. The
+fonts, including any derivative works, can be bundled, embedded,
+redistributed and/or sold with any software provided that any reserved
+names are not used by derivative works. The fonts and derivatives,
+however, cannot be released under any other type of license. The
+requirement for fonts to remain under this license does not apply
+to any document created using the fonts or their derivatives.
+
+DEFINITIONS
+"Font Software" refers to the set of files released by the Copyright
+Holder(s) under this license and clearly marked as such. This may
+include source files, build scripts and documentation.
+
+"Reserved Font Name" refers to any names specified as such after the
+copyright statement(s).
+
+"Original Version" refers to the collection of Font Software components as
+distributed by the Copyright Holder(s).
+
+"Modified Version" refers to any derivative made by adding to, deleting,
+or substituting -- in part or in whole -- any of the components of the
+Original Version, by changing formats or by porting the Font Software to a
+new environment.
+
+"Author" refers to any designer, engineer, programmer, technical
+writer or other person who contributed to the Font Software.
+
+PERMISSION & CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the Font Software, to use, study, copy, merge, embed, modify,
+redistribute, and sell modified and unmodified copies of the Font
+Software, subject to the following conditions:
+
+1) Neither the Font Software nor any of its individual components,
+in Original or Modified Versions, may be sold by itself.
+
+2) Original or Modified Versions of the Font Software may be bundled,
+redistributed and/or sold with any software, provided that each copy
+contains the above copyright notice and this license. These can be
+included either as stand-alone text files, human-readable headers or
+in the appropriate machine-readable metadata fields within text or
+binary files as long as those fields can be easily viewed by the user.
+
+3) No Modified Version of the Font Software may use the Reserved Font
+Name(s) unless explicit written permission is granted by the corresponding
+Copyright Holder. This restriction only applies to the primary font name as
+presented to the users.
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
+Software shall not be used to promote, endorse or advertise any
+Modified Version, except to acknowledge the contribution(s) of the
+Copyright Holder(s) and the Author(s) or with their explicit written
+permission.
+
+5) The Font Software, modified or unmodified, in part or in whole,
+must be distributed entirely under this license, and must not be
+distributed under any other license. The requirement for fonts to
+remain under this license does not apply to any document created
+using the Font Software.
+
+TERMINATION
+This license becomes null and void if any of the above conditions are
+not met.
+
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
+OTHER DEALINGS IN THE FONT SOFTWARE.
+
+
+Fraunces — SIL Open Font License 1.1
+https://openfontlicense.org/
+Copyright 2020 The Fraunces Project Authors (github.com/undercasetype/Fraunces) Fraunces-Italic[SOFT,WONK,opsz,wght].ttf: Copyright 2020 The Fraunces Project Authors (github.com/undercasetype/Fraunces)
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
+
+
+-----------------------------------------------------------
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+-----------------------------------------------------------
+
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide
+development of collaborative font projects, to support the font creation
+efforts of academic and linguistic communities, and to provide a free and
+open framework in which fonts may be shared and improved in partnership
+with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and
+redistributed freely as long as they are not sold by themselves. The
+fonts, including any derivative works, can be bundled, embedded,
+redistributed and/or sold with any software provided that any reserved
+names are not used by derivative works. The fonts and derivatives,
+however, cannot be released under any other type of license. The
+requirement for fonts to remain under this license does not apply
+to any document created using the fonts or their derivatives.
+
+DEFINITIONS
+"Font Software" refers to the set of files released by the Copyright
+Holder(s) under this license and clearly marked as such. This may
+include source files, build scripts and documentation.
+
+"Reserved Font Name" refers to any names specified as such after the
+copyright statement(s).
+
+"Original Version" refers to the collection of Font Software components as
+distributed by the Copyright Holder(s).
+
+"Modified Version" refers to any derivative made by adding to, deleting,
+or substituting -- in part or in whole -- any of the components of the
+Original Version, by changing formats or by porting the Font Software to a
+new environment.
+
+"Author" refers to any designer, engineer, programmer, technical
+writer or other person who contributed to the Font Software.
+
+PERMISSION & CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the Font Software, to use, study, copy, merge, embed, modify,
+redistribute, and sell modified and unmodified copies of the Font
+Software, subject to the following conditions:
+
+1) Neither the Font Software nor any of its individual components,
+in Original or Modified Versions, may be sold by itself.
+
+2) Original or Modified Versions of the Font Software may be bundled,
+redistributed and/or sold with any software, provided that each copy
+contains the above copyright notice and this license. These can be
+included either as stand-alone text files, human-readable headers or
+in the appropriate machine-readable metadata fields within text or
+binary files as long as those fields can be easily viewed by the user.
+
+3) No Modified Version of the Font Software may use the Reserved Font
+Name(s) unless explicit written permission is granted by the corresponding
+Copyright Holder. This restriction only applies to the primary font name as
+presented to the users.
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
+Software shall not be used to promote, endorse or advertise any
+Modified Version, except to acknowledge the contribution(s) of the
+Copyright Holder(s) and the Author(s) or with their explicit written
+permission.
+
+5) The Font Software, modified or unmodified, in part or in whole,
+must be distributed entirely under this license, and must not be
+distributed under any other license. The requirement for fonts to
+remain under this license does not apply to any document created
+using the Font Software.
+
+TERMINATION
+This license becomes null and void if any of the above conditions are
+not met.
+
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
+OTHER DEALINGS IN THE FONT SOFTWARE.
+
+
+Roboto Condensed — SIL Open Font License 1.1
+https://openfontlicense.org/
+Copyright 2011 Google Inc. All Rights Reserved. RobotoCondensed-Italic[wght].ttf: Copyright 2011 Google Inc. All Rights Reserved.
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
+
+
+-----------------------------------------------------------
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+-----------------------------------------------------------
+
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide
+development of collaborative font projects, to support the font creation
+efforts of academic and linguistic communities, and to provide a free and
+open framework in which fonts may be shared and improved in partnership
+with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and
+redistributed freely as long as they are not sold by themselves. The
+fonts, including any derivative works, can be bundled, embedded,
+redistributed and/or sold with any software provided that any reserved
+names are not used by derivative works. The fonts and derivatives,
+however, cannot be released under any other type of license. The
+requirement for fonts to remain under this license does not apply
+to any document created using the fonts or their derivatives.
+
+DEFINITIONS
+"Font Software" refers to the set of files released by the Copyright
+Holder(s) under this license and clearly marked as such. This may
+include source files, build scripts and documentation.
+
+"Reserved Font Name" refers to any names specified as such after the
+copyright statement(s).
+
+"Original Version" refers to the collection of Font Software components as
+distributed by the Copyright Holder(s).
+
+"Modified Version" refers to any derivative made by adding to, deleting,
+or substituting -- in part or in whole -- any of the components of the
+Original Version, by changing formats or by porting the Font Software to a
+new environment.
+
+"Author" refers to any designer, engineer, programmer, technical
+writer or other person who contributed to the Font Software.
+
+PERMISSION & CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the Font Software, to use, study, copy, merge, embed, modify,
+redistribute, and sell modified and unmodified copies of the Font
+Software, subject to the following conditions:
+
+1) Neither the Font Software nor any of its individual components,
+in Original or Modified Versions, may be sold by itself.
+
+2) Original or Modified Versions of the Font Software may be bundled,
+redistributed and/or sold with any software, provided that each copy
+contains the above copyright notice and this license. These can be
+included either as stand-alone text files, human-readable headers or
+in the appropriate machine-readable metadata fields within text or
+binary files as long as those fields can be easily viewed by the user.
+
+3) No Modified Version of the Font Software may use the Reserved Font
+Name(s) unless explicit written permission is granted by the corresponding
+Copyright Holder. This restriction only applies to the primary font name as
+presented to the users.
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
+Software shall not be used to promote, endorse or advertise any
+Modified Version, except to acknowledge the contribution(s) of the
+Copyright Holder(s) and the Author(s) or with their explicit written
+permission.
+
+5) The Font Software, modified or unmodified, in part or in whole,
+must be distributed entirely under this license, and must not be
+distributed under any other license. The requirement for fonts to
+remain under this license does not apply to any document created
+using the Font Software.
+
+TERMINATION
+This license becomes null and void if any of the above conditions are
+not met.
+
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
+OTHER DEALINGS IN THE FONT SOFTWARE.
+
+
+Three.js — MIT
+https://github.com/mrdoob/three.js/blob/dev/LICENSE
+The MIT License
+
+Copyright © 2010-2024 three.js authors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+
+Colyseus SDK e componentes incorporados — MIT
+https://github.com/colyseus/colyseus.js
+Third-party notices for bundled browser client vendor/colyseus.js
+These notices reproduce the licenses shipped with the exact installed packages.
+
+========================================
+@colyseus/sdk 0.17.43
+========================================
+Copyright (c) 2015-2026 Endel Dreyer
+
+MIT License:
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+
+========================================
+@colyseus/schema 4.0.31
+========================================
+Copyright (c) 2018 Endel Dreyer
+
+MIT License:
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+
+========================================
+@colyseus/shared-types 0.17.6
+========================================
+Copyright (c) 2015-2026 Endel Dreyer
+
+MIT License:
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+
+========================================
+@colyseus/msgpackr 1.11.3
+========================================
+MIT License
+
+Copyright (c) 2020 Kris Zyp
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+========================================
+ws 8.22.0
+========================================
+Copyright (c) 2011 Einar Otto Stangvik <einaros@gmail.com>
+Copyright (c) 2013 Arnout Kazemier and contributors
+Copyright (c) 2016 Luigi Pinca and contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+CAPTURAS DE TELA DESTE REPOSITÓRIO
+menu.png e arena.png: capturas reais do Batalha das Urnas V37/RC2, realizadas em 17/10/2026 para a apresentação oficial. Não houve geração de novas imagens, retoque, recorte ou alteração do jogo na captura.
+A fotografia do plenário presente em arena.png é PlenárioCamaradeputados.jpg, Câmara dos Deputados - TV Câmara, https://commons.wikimedia.org/wiki/File:Plen%C3%A1rioCamaradeputados.jpg, CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0/.
+Transformações no jogo: redimensionamento, conversão WebP, enquadramento, vinheta e sobreposição da arena/interface. A fotografia mantém sua atribuição e condição de compartilhamento pela mesma licença; isso não representa apoio da instituição nem uma licença única para todos os demais componentes.
